@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1555900205317" stop="1555900217341" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>tech : tech3</name>
+    <title>tech : tech3</title>
+    <test-cases>
+        <test-case start="1555900205410" stop="1555900217340" status="passed">
+            <name>test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="test"/>
+                <label name="thread" value="6277@test.TestNG(15)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
